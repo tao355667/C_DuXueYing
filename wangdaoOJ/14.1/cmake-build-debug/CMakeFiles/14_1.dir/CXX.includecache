@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/code/C_DuXueYing/wangdaoOJ/14.1/main.cpp
+cstdlib
+D:/code/C_DuXueYing/wangdaoOJ/14.1/cstdlib
+cstdio
+D:/code/C_DuXueYing/wangdaoOJ/14.1/cstdio
+
