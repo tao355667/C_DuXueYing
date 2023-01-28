@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/code/C_DuXueYing/wangdaoOJ/16.0/main.cpp
+stdlib.h
+D:/code/C_DuXueYing/wangdaoOJ/16.0/stdlib.h
+stdio.h
+D:/code/C_DuXueYing/wangdaoOJ/16.0/stdio.h
+time.h
+D:/code/C_DuXueYing/wangdaoOJ/16.0/time.h
+

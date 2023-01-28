@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\21_6_if_for__assembly.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\21_6_if_for__assembly.dir/objects.a @CMakeFiles\21_6_if_for__assembly.dir\objects1.rsp
+C:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\21_6_if_for__assembly.dir/objects.a -Wl,--no-whole-archive -o 21_6_if_for__assembly.exe -Wl,--out-implib,lib21_6_if_for__assembly.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\21_6_if_for__assembly.dir\linklibs.rsp
